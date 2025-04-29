@@ -12,3 +12,18 @@ C:\Users\renan\Desktop\Exercicios Carol\ExerciciosCarol\obj\Debug\net9.0\refint\
 C:\Users\renan\Desktop\Exercicios Carol\ExerciciosCarol\obj\Debug\net9.0\ExerciciosCarol.pdb
 C:\Users\renan\Desktop\Exercicios Carol\ExerciciosCarol\obj\Debug\net9.0\ExerciciosCarol.genruntimeconfig.cache
 C:\Users\renan\Desktop\Exercicios Carol\ExerciciosCarol\obj\Debug\net9.0\ref\ExerciciosCarol.dll
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\bin\Debug\net9.0\ExerciciosCarol.exe
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\bin\Debug\net9.0\ExerciciosCarol.deps.json
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\bin\Debug\net9.0\ExerciciosCarol.runtimeconfig.json
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\bin\Debug\net9.0\ExerciciosCarol.dll
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\bin\Debug\net9.0\ExerciciosCarol.pdb
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.AssemblyInfo.cs
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.sourcelink.json
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.dll
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\refint\ExerciciosCarol.dll
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.pdb
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ExerciciosCarol.genruntimeconfig.cache
+C:\Users\renan\Desktop\ESTUDO\Exercicios de Loop\ListaExerciciosComLoop\obj\Debug\net9.0\ref\ExerciciosCarol.dll

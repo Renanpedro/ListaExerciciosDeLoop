@@ -27,3 +27,37 @@
 
 **10. Mostrar todos os números de 1 a 20, mas pular os múltiplos de 4**
 - De 1 a 20, imprima todos os números, menos aqueles que são múltiplos de 4.
+
+**11. Somar os números ímpares entre 1 e 100**
+- Use for ou while e adicione apenas os ímpares a uma variável soma.
+
+**12. Inverter os caracteres de uma string**
+- Exemplo: "Renan" vira "naneR"
+
+**13. Calcular a média de um array de notas**
+- double[] notas = { 7.5, 8.2, 9.0, 6.4, 10 };
+- Calcule a média usando um loop.
+
+**14. Verificar se uma palavra é um palíndromo**
+- Palavras como "arara" ou "radar" são iguais de trás pra frente. Use um loop para verificar.
+
+**15. Contar quantas vogais existem em uma frase**
+- Dado uma string qualquer, conte quantas letras são a, e, i, o, u.
+
+**16. Mostrar a sequência de Fibonacci até o 20º número**
+- Exemplo de início: 0, 1, 1, 2, 3, 5, 8...
+
+**17. Mostrar os divisores de um número inteiro**
+- Peça um número e mostre todos os números que o dividem.
+
+**18. Verificar se todos os elementos de um array são positivos**
+- int[] numeros = { 1, 2, -3, 4 };
+- Retornar false se houver algum número negativo.
+
+**19. Substituir números pares por “P” e ímpares por “I” em um array**
+- int[] nums = { 1, 2, 3, 4, 5 };
+- Resultado: "I P I P I"
+
+**20. Jogo da adivinhação**
+- O programa escolhe um número aleatório de 1 a 100. O usuário tenta adivinhar até acertar.
+- A cada tentativa, diga se o número é **maior ou menor** que o chutado.
