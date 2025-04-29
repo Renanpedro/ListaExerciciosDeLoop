@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExerciciosCarol/1.0.0": {
+        "runtime": {
+          "ExerciciosCarol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciciosCarol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
